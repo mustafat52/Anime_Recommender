@@ -1,5 +1,5 @@
 venv/
-artifacts/raw
+artifacts/raw/
 artifacts/processed/
 artifacts/model/
 artifacts/weights/
