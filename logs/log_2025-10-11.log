@@ -1,0 +1,12 @@
+2025-10-11 13:44:57,838 - ERROR - Error in reading the YAML file
+2025-10-11 13:44:57,838 - ERROR - Error in reading the config file
+2025-10-11 13:52:43,997 - ERROR - Error in reading the YAML file
+2025-10-11 13:52:43,997 - ERROR - Error in reading the config file
+2025-10-11 13:55:56,061 - INFO - Successfullt read form the YAML file
+2025-10-11 13:55:56,061 - INFO - Data Ingestion Started
+2025-10-11 13:55:56,064 - INFO - Starting the data ingestion process
+2025-10-11 13:56:07,086 - INFO - Downloading the other two files
+2025-10-11 13:56:11,156 - INFO - Downloading the other two files
+2025-10-11 14:05:37,490 - INFO - Large file Detected, only downloading 50lakh rows
+2025-10-11 14:05:37,519 - INFO - Data Ingestion COmpleted
+2025-10-11 14:05:37,519 - INFO - Data Ingestion DONE

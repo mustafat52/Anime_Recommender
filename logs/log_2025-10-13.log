@@ -1,0 +1,105 @@
+2025-10-13 14:34:42,135 - INFO - data Processing Intialized
+2025-10-13 14:34:43,970 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:34:44,252 - INFO - FIltered users sucessfully
+2025-10-13 14:34:46,401 - INFO - Scaling done for processing
+2025-10-13 14:34:46,631 - INFO - Encodings done for anime and users
+2025-10-13 14:36:00,875 - INFO - data Processing Intialized
+2025-10-13 14:36:02,558 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:36:02,837 - INFO - FIltered users sucessfully
+2025-10-13 14:36:04,579 - INFO - Scaling done for processing
+2025-10-13 14:36:04,906 - INFO - Encodings done for anime and users
+2025-10-13 14:37:50,230 - INFO - data Processing Intialized
+2025-10-13 14:37:52,086 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:37:52,314 - INFO - FIltered users sucessfully
+2025-10-13 14:37:54,049 - INFO - Scaling done for processing
+2025-10-13 14:37:54,257 - INFO - Encodings done for anime and users
+2025-10-13 14:39:05,025 - INFO - data Processing Intialized
+2025-10-13 14:39:06,615 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:39:06,814 - INFO - FIltered users sucessfully
+2025-10-13 14:39:08,453 - INFO - Scaling done for processing
+2025-10-13 14:39:08,621 - INFO - Encodings done for anime and users
+2025-10-13 14:40:05,094 - INFO - data Processing Intialized
+2025-10-13 14:40:06,829 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:40:07,013 - INFO - FIltered users sucessfully
+2025-10-13 14:40:08,619 - INFO - Scaling done for processing
+2025-10-13 14:40:08,809 - INFO - Encodings done for anime and users
+2025-10-13 14:43:00,322 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:43:02,098 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:43:02,374 - INFO - FIltered users sucessfully
+2025-10-13 14:43:04,219 - INFO - Scaling done for processing
+2025-10-13 14:43:04,403 - INFO - Encodings done for anime and users
+2025-10-13 14:43:48,673 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:43:50,106 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:43:50,348 - INFO - FIltered users sucessfully
+2025-10-13 14:43:52,586 - INFO - Scaling done for processing
+2025-10-13 14:43:52,853 - INFO - Encodings done for anime and users
+2025-10-13 14:45:12,851 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:45:14,310 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:45:14,537 - INFO - FIltered users sucessfully
+2025-10-13 14:45:16,113 - INFO - Scaling done for processing
+2025-10-13 14:45:16,275 - INFO - Encodings done for anime and users
+2025-10-13 14:45:16,976 - INFO - Data splitting Done
+2025-10-13 14:45:16,994 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-13 14:45:17,011 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-13 14:45:17,108 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-13 14:45:17,169 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-13 14:45:25,871 - INFO - All the training testing and rating_df has been saved 
+2025-10-13 14:46:14,982 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:46:16,686 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:46:16,913 - INFO - FIltered users sucessfully
+2025-10-13 14:46:18,781 - INFO - Scaling done for processing
+2025-10-13 14:46:18,973 - INFO - Encodings done for anime and users
+2025-10-13 14:46:19,825 - INFO - Data splitting Done
+2025-10-13 14:46:19,851 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-13 14:46:19,880 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-13 14:46:19,976 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-13 14:46:20,061 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-13 14:46:29,737 - INFO - All the training testing and rating_df has been saved 
+2025-10-13 14:46:51,991 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:46:53,546 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:46:53,743 - INFO - FIltered users sucessfully
+2025-10-13 14:46:55,499 - INFO - Scaling done for processing
+2025-10-13 14:46:55,782 - INFO - Encodings done for anime and users
+2025-10-13 14:46:56,744 - INFO - Data splitting Done
+2025-10-13 14:46:56,764 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-13 14:46:56,793 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-13 14:46:56,890 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-13 14:46:56,990 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-13 14:47:07,577 - INFO - All the training testing and rating_df has been saved 
+2025-10-13 14:48:49,174 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:48:50,757 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:48:50,962 - INFO - FIltered users sucessfully
+2025-10-13 14:48:52,692 - INFO - Scaling done for processing
+2025-10-13 14:48:52,886 - INFO - Encodings done for anime and users
+2025-10-13 14:48:53,514 - INFO - Data splitting Done
+2025-10-13 14:48:53,525 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-13 14:48:53,539 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-13 14:48:53,615 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-13 14:48:53,679 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-13 14:49:01,939 - INFO - All the training testing and rating_df has been saved 
+2025-10-13 14:50:42,742 - INFO - DATA PROCESSING INITIALIZED
+2025-10-13 14:50:44,255 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:50:44,488 - INFO - FIltered users sucessfully
+2025-10-13 14:50:46,171 - INFO - Scaling done for processing
+2025-10-13 14:50:46,389 - INFO - Encodings done for anime and users
+2025-10-13 14:50:47,124 - INFO - Data splitting Done
+2025-10-13 14:50:47,134 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-13 14:50:47,161 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-13 14:50:47,255 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-13 14:50:47,336 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-13 14:50:55,705 - INFO - All the training testing and rating_df has been saved 
+2025-10-13 14:51:04,406 - INFO - DF and Synopsis_df saved sucessfully
+2025-10-13 14:51:04,412 - INFO - Data Processing Pipeline Completed Successfuly
+2025-10-13 14:55:27,748 - INFO - -------------------------DATA PROCESSING INITIALIZED-----------------------------
+2025-10-13 14:55:29,311 - INFO - Data loaded successfully for data Processing
+2025-10-13 14:55:29,592 - INFO - FIltered users sucessfully
+2025-10-13 14:55:31,392 - INFO - Scaling done for processing
+2025-10-13 14:55:31,573 - INFO - Encodings done for anime and users
+2025-10-13 14:55:32,293 - INFO - Data splitting Done
+2025-10-13 14:55:32,328 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-13 14:55:32,341 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-13 14:55:32,432 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-13 14:55:32,551 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-13 14:55:40,684 - INFO - All the training testing and rating_df has been saved 
+2025-10-13 14:55:50,724 - INFO - DF and Synopsis_df saved sucessfully
+2025-10-13 14:55:50,729 - INFO - Data Processing Pipeline Completed Successfuly

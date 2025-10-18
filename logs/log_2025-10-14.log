@@ -1,0 +1,57 @@
+2025-10-14 22:07:21,853 - INFO - -----------MODEL TRAINING INTIALIZED--------------
+2025-10-14 22:07:21,920 - INFO - Data Loaded Sucessfully for Model Training......
+2025-10-14 22:07:21,932 - ERROR - [Errno 2] No such file or directory: 'artifacts/processed/anim2anime_encoded.pkl'
+2025-10-14 22:09:42,354 - INFO - -----------MODEL TRAINING INTIALIZED--------------
+2025-10-14 22:09:42,417 - INFO - Data Loaded Sucessfully for Model Training......
+2025-10-14 22:09:42,481 - INFO - Loaded from Config Path
+2025-10-14 22:09:42,481 - ERROR - Error occured during model Architecture : string indices must be integers, not 'str'
+2025-10-14 22:09:42,481 - ERROR - 'TypeError' object has no attribute 'exc_info'
+2025-10-14 22:16:44,864 - INFO - -----------MODEL TRAINING INTIALIZED--------------
+2025-10-14 22:16:44,949 - INFO - Data Loaded Sucessfully for Model Training......
+2025-10-14 22:16:45,013 - INFO - Successfullt read form the YAML file
+2025-10-14 22:16:45,013 - INFO - Loaded from Config Path
+2025-10-14 22:16:45,273 - INFO - Model Cretaed Sucessfully.......
+2025-10-14 22:16:45,273 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_details'
+2025-10-14 22:29:39,018 - INFO - -------------------------DATA PROCESSING INITIALIZED-----------------------------
+2025-10-14 22:29:40,825 - INFO - Data loaded successfully for data Processing
+2025-10-14 22:29:41,089 - INFO - FIltered users sucessfully
+2025-10-14 22:29:43,097 - INFO - Scaling done for processing
+2025-10-14 22:29:43,391 - INFO - Encodings done for anime and users
+2025-10-14 22:29:44,321 - INFO - Data splitting Done
+2025-10-14 22:29:44,341 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-14 22:29:44,361 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-14 22:29:44,420 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-14 22:29:44,468 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-14 22:29:53,266 - INFO - All the training testing and rating_df has been saved 
+2025-10-14 22:30:05,421 - INFO - DF and Synopsis_df saved sucessfully
+2025-10-14 22:30:05,425 - INFO - Data Processing Pipeline Completed Successfuly
+2025-10-14 22:30:24,551 - INFO - -----------MODEL TRAINING INTIALIZED--------------
+2025-10-14 22:30:24,600 - INFO - Data Loaded Sucessfully for Model Training......
+2025-10-14 22:30:24,648 - INFO - Successfullt read form the YAML file
+2025-10-14 22:30:24,648 - INFO - Loaded from Config Path
+2025-10-14 22:30:24,871 - INFO - Model Cretaed Sucessfully.......
+2025-10-14 22:30:24,871 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_details'
+2025-10-14 22:34:34,038 - INFO - -------------------------DATA PROCESSING INITIALIZED-----------------------------
+2025-10-14 22:34:35,844 - INFO - Data loaded successfully for data Processing
+2025-10-14 22:34:36,185 - INFO - FIltered users sucessfully
+2025-10-14 22:34:38,372 - INFO - Scaling done for processing
+2025-10-14 22:34:38,572 - INFO - Encodings done for anime and users
+2025-10-14 22:34:39,472 - INFO - Data splitting Done
+2025-10-14 22:34:39,498 - INFO - user2user_encoded sucessfully in processed directory
+2025-10-14 22:34:39,521 - INFO - user2user_decoded sucessfully in processed directory
+2025-10-14 22:34:39,604 - INFO - anime2anime_encoded sucessfully in processed directory
+2025-10-14 22:34:39,685 - INFO - anime2anime_decoded sucessfully in processed directory
+2025-10-14 22:34:48,859 - INFO - All the training testing and rating_df has been saved 
+2025-10-14 22:35:01,117 - INFO - DF and Synopsis_df saved sucessfully
+2025-10-14 22:35:01,117 - INFO - Data Processing Pipeline Completed Successfuly
+2025-10-14 22:35:17,981 - INFO - -----------MODEL TRAINING INTIALIZED--------------
+2025-10-14 22:35:18,055 - INFO - Data Loaded Sucessfully for Model Training......
+2025-10-14 22:35:18,085 - INFO - Successfullt read form the YAML file
+2025-10-14 22:35:18,085 - INFO - Loaded from Config Path
+2025-10-14 22:35:18,249 - INFO - Model Cretaed Sucessfully.......
+2025-10-14 22:36:21,790 - INFO - Model Training Completed........
+2025-10-14 22:36:21,790 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-10-14 22:36:21,944 - INFO - Model saved to artifacts/model\model.h5
+2025-10-14 22:36:21,957 - INFO - Extracting weights for....user_embedding
+2025-10-14 22:36:21,979 - INFO - Extracting weights for....anime_embedding
+2025-10-14 22:36:21,999 - INFO - User and Anime weights saved Sucesfully........
